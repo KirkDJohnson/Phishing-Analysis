@@ -65,7 +65,7 @@ Researching more into Agent Tesla, it is one of the most common malware currentl
 <img src="https://github.com/KirkDJohnson/Phishing-Analysis/assets/164972007/e2b92b11-f412-465b-b6bf-6040ec87342c"  alt="Phishing Analysis"/>
 <br />
 <br />
-;astly, to further reduce the chance of the malware infecting a host if come accross in the future, I found a Sigma rule to detect the presence of Agent Tesla IOC to add to the defence of blocking the hash, IP, and domain of attacker<br/>
+Lastly, to further reduce the chance of the malware infecting a host if come accross in the future, I found a Sigma rule to detect the presence of Agent Tesla IOC to add to the defence of blocking the hash, IP, and domain of attacker<br/>
 <img src="https://github.com/KirkDJohnson/Phishing-Analysis/assets/164972007/9b966f9f-0fb2-4c04-adf0-f2c717b62809"  alt="Phishing Analysis"/>
 <br />
 <br />
